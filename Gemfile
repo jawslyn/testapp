@@ -32,6 +32,8 @@ gem 'spring',        group: :development
 
 gem 'puma'
 
+gem 'haml-rails', '~> 0.9'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
